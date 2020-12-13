@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`menu-bar-item-create create matches snapshot 1`] = `
+<button
+  aria-label=""
+  class="item"
+  type="button"
+>
+  <span
+    aria-hidden="true"
+    class="icon-wrapper"
+  />
+   
+  <div
+    class="unread-indicator"
+  />
+</button>
+`;
